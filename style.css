@@ -1,0 +1,17 @@
+h1
+{
+	color: text
+	font-size: 40px;
+}
+.bodyBackgorund {
+    background-image: url("espaço2.png");
+    background-position: center;
+background-size: cover;
+text-align: center;
+}
+
+#mcanvas{
+border-width: 10px;
+background-color:  rgb(0, 0, 0);
+border-style: ridge;
+}
